@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    flex-wrap: wrap;
+    padding: 20px 15px 15px 20px;
+}
+.logo{
+    font-size: 32px;
+    font-weight: bold;
+
+}
+
+.header-links{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+ul{
+    list-style: none;
+}
