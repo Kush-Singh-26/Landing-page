@@ -129,3 +129,27 @@ h2{
     text-align: center;
     font-size: 18px;
 }
+
+.quote-container{
+    background-color: #e5e7eb;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 250px;
+}
+
+.quote{
+    font-size: 50px;
+    font-family: 'Tangerine' ;
+    color: #1f2937;
+    font-weight: 400;
+}
+
+.author{
+    font-family: 'Lobster';
+    align-self: flex-end;
+    padding-top: 25px;
+    padding-right: 170px;
+}
