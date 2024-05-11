@@ -186,3 +186,17 @@ padding-left: 50px;
     font-weight: bold;
     font-size: 15px;
 }
+
+.footer-lower{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: white;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.footer-lower-text{
+    font-weight: bold;
+}
