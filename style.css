@@ -130,6 +130,7 @@ h2{
     font-size: 18px;
 }
 
+/*quote*/
 .quote-container{
     background-color: #e5e7eb;
     margin-top: 50px;
@@ -152,4 +153,36 @@ h2{
     align-self: flex-end;
     padding-top: 25px;
     padding-right: 170px;
+}
+
+/*footer*/
+.footer{
+margin: 50px;
+}
+
+.footer-box{
+display: flex;
+justify-content: space-around;
+align-items: center;
+background-color: #3882f6;
+color: white;
+padding: 50px;
+border-radius: 12px;
+margin-left: 200px;
+margin-right: 200px;
+}
+
+.footer-right{
+padding-left: 50px;
+}
+
+.footer-button{
+    width: 150px;
+    height: 30px;
+    background-color: #3882f6;
+    border-radius: 12px;
+    border: white 1px solid;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
 }
